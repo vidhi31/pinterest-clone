@@ -14,3 +14,11 @@
     color:seashell;
     font-size: x-large;
 }
+img{
+    /*max-width: 128px;
+    max-height: 140px;*/
+    text-align: center;
+    display: flex;
+    margin: auto;
+    margin-top: auto;
+    justify-content: center;
