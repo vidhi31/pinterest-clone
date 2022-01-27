@@ -1,6 +1,4 @@
 .items{
-
-    border:2px solid black;
     margin: 10px;
 }
 .section-body{
@@ -17,10 +15,15 @@ img{
     /*max-width: 128px;
     max-height: 140px;*/
     border: 0;
-    height: auto;
+    max-height: 100%;
     max-width: 100%;
-    vertical-align: middle;
-    display: flex;
+    /*display: flex;*/
     margin: auto;
-    margin-top: auto;
-    justify-content: center;
+    /*justify-content: center;*/
+    padding: 15px;
+    object-fit: cover;
+    border-radius: 8px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill);
+    grid-template-rows:repeat(auto-fill) ;
+}
