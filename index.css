@@ -10,21 +10,27 @@
     color:seashell;
     font-size: x-large;
 }
-img{
+/*img{
     /*max-width: 128px;
-    max-height: 140px;*/
+    max-height: 140px;
     border: 0;
     max-height: 100%;
     max-width: 100%;
-    /*display: flex;*/
+    /*display: flex;
     margin: auto;
-    /*justify-content: center;*/
+    /*justify-content: center;
     padding: 15px;
     object-fit: cover;
     border-radius: 8px;
     display: grid;
     grid-template-columns: repeat(auto-fill);
     grid-template-rows:repeat(auto-fill) ;
+}*/
+img{
+    width: 230px;
+    /* border: 2px solid black; */
+    border-radius: 10px;
+
 }
 #heading{
     display: flex;
