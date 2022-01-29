@@ -27,3 +27,7 @@ img{
     grid-template-columns: repeat(auto-fill);
     grid-template-rows:repeat(auto-fill) ;
 }
+.p{
+    display: flex;
+    text-align: justify center ;
+}
