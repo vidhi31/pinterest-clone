@@ -9,6 +9,8 @@
     background-color: red;
     color:seashell;
     font-size: x-large;
+    margin: 5px 0px;
+    padding: 18px;
 }
 /*img{
     /*max-width: 128px;
@@ -28,9 +30,8 @@
 }*/
 img{
     width: 300px;
-    /* border: 2px solid black; */
     border-radius: 10px;
-
+    
 }
 #heading{
     display: flex;
