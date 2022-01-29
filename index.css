@@ -41,9 +41,12 @@ img{
       
     float: left;
     width: 40%;
-    padding: 8px;
+    padding: 10px;
      }
-  .row{
+.column img {
+        margin-top: 12px;
+      }
+.row{
     display: flex;
-
+    flex-wrap: wrap;
     }
