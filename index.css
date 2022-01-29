@@ -44,7 +44,7 @@ img{
     color: seashell;
 }
 .column {
-    float: left;
+    float: center;
     width: 20%;
     padding: 10px;
      }
