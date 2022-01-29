@@ -27,7 +27,7 @@
     grid-template-rows:repeat(auto-fill) ;
 }*/
 img{
-    width: 500px;
+    width: 300px;
     /* border: 2px solid black; */
     border-radius: 10px;
 
@@ -52,7 +52,4 @@ img{
 .column img {
         margin-top: 12px;
       }
-.row{
-    display: flex;
-    flex-wrap: wrap;
-    }
+
