@@ -44,6 +44,9 @@ img{
     width: 500px;
     color: seashell;
 }
+.li{
+    color: seashell;
+}
 .column {
     float: left;
     width: 20%;
