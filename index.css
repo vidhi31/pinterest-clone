@@ -7,7 +7,6 @@
 }
 .section-header{
     background-color: red;
-    text-align: center;
     color:seashell;
     font-size: x-large;
 }
@@ -27,7 +26,13 @@ img{
     grid-template-columns: repeat(auto-fill);
     grid-template-rows:repeat(auto-fill) ;
 }
-.p{
+#heading{
     display: flex;
-    text-align: justify center ;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    float: right; 
+    margin: 0px 10px 0px 0px;
+    font-size: large;
+    width: 500px;
 }
