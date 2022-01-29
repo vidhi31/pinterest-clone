@@ -33,10 +33,6 @@ img{
 .column {
     float: left;
     width: 20%;
-    padding: 10px;
-    display: inline-block;
-    width: 100px;
-    height: 100px;
-    padding: 5px;
+    
      }
 
