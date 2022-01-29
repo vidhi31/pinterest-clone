@@ -12,22 +12,6 @@
     margin: 5px 0px;
     padding: 18px;
 }
-/*img{
-    /*max-width: 128px;
-    max-height: 140px;
-    border: 0;
-    max-height: 100%;
-    max-width: 100%;
-    /*display: flex;
-    margin: auto;
-    /*justify-content: center;
-    padding: 15px;
-    object-fit: cover;
-    border-radius: 8px;
-    display: grid;
-    grid-template-columns: repeat(auto-fill);
-    grid-template-rows:repeat(auto-fill) ;
-}*/
 img{
     width: 300px;
     border-radius: 10px;
@@ -44,12 +28,12 @@ img{
     width: 500px;
     color: seashell;
 }
-.li{
-    color: seashell;
+
 }
 .column {
     float: left;
     width: 20%;
     padding: 10px;
+    display: inline-block;
      }
 
