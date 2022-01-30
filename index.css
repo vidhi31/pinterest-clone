@@ -43,6 +43,10 @@ img{
     padding: 5px; 
     border-radius: 10px;
 }
+#heading li a:hover{
+    color: #e60023;
+    background-color: white;
+}
 
 .row{
     display: flex;
