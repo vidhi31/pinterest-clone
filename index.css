@@ -27,7 +27,7 @@ img{
 #heading li{
     display: flex;
     flex-wrap: wrap;
-    color: black;
+    color: seashell;
 }
 
 .row{
