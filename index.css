@@ -66,3 +66,33 @@ img{
 .column img {
         margin-top: 12px;
       }
+
+@media screen and (max-width: 1030px) {
+        .column {
+          flex: 25%;
+          max-width: 25%;
+        }
+      }
+    
+    
+/*@media screen and (max-width: 800px) {
+        .column {
+          flex: 33.33%;
+          max-width: 33.33%;
+        }
+      }*/
+    
+@media screen and (max-width: 600px) {
+        .column {
+          flex: 50%;
+          max-width: 50%;
+        }
+      }
+      
+     
+@media screen and (max-width: 400px) {
+        .column {
+          flex: 100%;
+          max-width: 100%;
+        }
+    }
