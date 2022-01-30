@@ -19,6 +19,8 @@ img{
     }
 .column img{
     margin-top: 12px;
+    float: left;
+    width: 20%;
 }
 #heading{
     display: flex;
