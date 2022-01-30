@@ -96,3 +96,8 @@ img{
           max-width: 100%;
         }
     }
+@media screen and (max-width: 750px) {
+        #heading {
+          content-visibility: hidden;
+        }
+      }
