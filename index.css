@@ -48,4 +48,12 @@ img{
     display: flex;
     flex-wrap: wrap;
      }
-
+.row{
+        display: flex;
+        flex-wrap: wrap;
+    }
+.row:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
