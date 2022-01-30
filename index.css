@@ -2,14 +2,14 @@
     display: flex;
     flex-wrap: wrap;
 }
-
+/*
 #button{
     border: 1px solid white; 
     background-color: whitesmoke; 
     color: #e60023;
     padding: 5px; 
     border-radius: 30px;
-    }
+    }*/
 .section-header{
     background-color: #e60023;
     color:seashell;
@@ -32,11 +32,16 @@ img{
     font-size: large;
     width: 500px;
     }
-#heading li{
+#heading li button{
     display: flex;
     flex-wrap: wrap;
     color: seashell;
     font-family: "Lucida Console", "Courier New", monospace;
+    border: 1px solid white; 
+    background-color: whitesmoke; 
+    color: #e60023;
+    padding: 5px; 
+    border-radius: 30px;
 }
 
 .row{
