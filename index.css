@@ -75,12 +75,12 @@ img{
       }
     
     
-/*@media screen and (max-width: 800px) {
+@media screen and (max-width: 800px) {
         .column {
           flex: 33.33%;
           max-width: 33.33%;
         }
-      }*/
+      }
     
 @media screen and (max-width: 600px) {
         .column {
