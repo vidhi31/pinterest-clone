@@ -34,5 +34,7 @@ img{
     float: left;
     width: 20%;
     padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
      }
 
