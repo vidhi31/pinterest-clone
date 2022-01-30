@@ -29,6 +29,11 @@ img{
     margin: 0px 10px 0px 0px;
     font-size: large;
     width: 500px;
+    
+}
+#heading li{
+    display: flex;
+    flex-wrap: wrap;
     color: seashell;
 }
 
