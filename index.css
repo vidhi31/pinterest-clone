@@ -28,6 +28,7 @@ img{
     display: flex;
     flex-wrap: wrap;
     color: seashell;
+    font-family: "Times New Roman", Times, serif;
 }
 
 .row{
