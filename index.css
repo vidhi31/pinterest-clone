@@ -16,11 +16,12 @@ img{
     width: 200px;
     border-radius: 10px;
     margin-top: 12px;
+    float: left;
+    width: 20%;
     }
 .column img{
     margin-top: 12px;
-    float: left;
-    width: 20%;
+
 }
 #heading{
     display: flex;
