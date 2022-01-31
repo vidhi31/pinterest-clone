@@ -69,8 +69,8 @@ img{
 
 @media screen and (max-width: 1030px) {
         .column {
-          flex: 20%;
-          max-width: 20%;
+          flex: 25%;
+          max-width: 25%;
         }
       }
     
@@ -92,8 +92,8 @@ img{
      
 @media screen and (max-width: 400px) {
         .column {
-          flex: 90%;
-          max-width: 90%;
+          flex: 98%;
+          max-width: 98%;
         }
     }
 @media screen and (max-width: 750px) {
