@@ -77,8 +77,8 @@ img{
     
 @media screen and (max-width: 600px) {
         .column {
-          flex: 40%;
-          max-width: 40%;
+          flex: 45%;
+          max-width: 45%;
         }
       }
       
