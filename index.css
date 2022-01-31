@@ -84,16 +84,16 @@ img{
     
 @media screen and (max-width: 600px) {
         .column {
-          flex: 50%;
-          max-width: 50%;
+          flex: 40%;
+          max-width: 40%;
         }
       }
       
      
 @media screen and (max-width: 400px) {
         .column {
-          flex: 100%;
-          max-width: 100%;
+          flex: 98%;
+          max-width: 98%;
         }
     }
 @media screen and (max-width: 750px) {
