@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Square+Peg&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Salsa&display=swap');
+
 .section-body{
     display: flex;
     flex-wrap: wrap;
@@ -6,9 +9,10 @@
 .section-header{
     background-color: #e60023;
     color:seashell;
-    font-size: x-large;
+    font-size: xx-large;
     margin: 5px 0px;
     padding: 18px;
+    font-family: 'Square Peg', cursive;
 }
 img{
     width: 100%;
@@ -33,6 +37,7 @@ img{
     padding: 3px 22px;
     border-radius: 20px;
     text-decoration: none;
+    font-size: xx-large;
 }
 #heading li a:hover{
     color: #e60023;
@@ -59,6 +64,11 @@ img{
 .column img {
         margin-top: 12px;
       }
+.footercontent{
+  text-align: center;
+  font-family: 'Square Peg', cursive;
+  color: #e60023;
+}
 
 @media screen and (max-width: 1030px) {
         .column {
